@@ -1,14 +1,14 @@
-const CACHE_NAME = 'the-kingdom-v1';
+const CACHE_NAME = 'the-kingdom-v2';
 const CORE = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-maskable-512.png',
-  './icons/icon-monochrome-512.png',
-  './icons/apple-touch-icon.png',
-  './icons/favicon-64.png'
+  './icon-192.png',
+  './icon-512.png',
+  './icon-maskable-512.png',
+  './icon-monochrome-512.png',
+  './apple-touch-icon.png',
+  './favicon-64.png'
 ];
 
 self.addEventListener('install', event => {
