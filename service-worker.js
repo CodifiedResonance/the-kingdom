@@ -1,4 +1,4 @@
-const CACHE_NAME = 'the-kingdom-v2';
+const CACHE_NAME = 'the-kingdom-v3';
 const CORE = [
   './',
   './index.html',
